@@ -1,0 +1,10 @@
+{
+  "name": "Javascript",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha ./queue.spec.js --recursive -w"
+  },
+  "dependencies": {
+    "mocha": "^6.2.0"
+  }
+}
